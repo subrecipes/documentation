@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "gitbook": "gitbook",
+    "build": "npm run gitbook -- build src docs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
