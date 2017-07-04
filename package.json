@@ -6,8 +6,8 @@
   "scripts": {
     "gitbook": "gitbook",
     "prebuild": "mv Naetorp.github.io/.git .git2",
-    "cleanup": "mv .git2 Naetorp.github.io/.git",
-    "build": "npm run prebuild && npm run danger-build && npm run cleanup",
+    "postbuild": "mv .git2 Naetorp.github.io/.git",
+    "build": "npm run danger-build",
     "danger-build": "npm run gitbook -- build src Naetorp.github.io",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
