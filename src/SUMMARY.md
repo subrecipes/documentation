@@ -12,7 +12,7 @@
   * [Tags](actions/tags.md)
   * [Cocontributors](actions/cocontributors.md)
 * [Points](points/introduction.md)
-  * [How It Works](points/how.md)
+  * [How to Accumulate Points](points/how.md)
   * [Points and Tags](points/points_tags.md)
   * [Ranks](points/ranks.md)
   * [Scoring](points/scoring.md)
