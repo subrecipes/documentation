@@ -4,7 +4,7 @@
   * [Getting Started](introduction/getting_started.md)
   * [Why Does Naetorp Exist?](introduction/why.md)
   * [Who is Naetorp For?](introduction/who.md)
-* Actions
+* [Actions](actions/introduction.md)
   * [Micropractices](actions/micropractices.md)
   * [Stars](actions/stars.md)
   * [Caveats](actions/caveats.md)
