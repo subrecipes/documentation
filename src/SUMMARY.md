@@ -5,7 +5,7 @@
   * [Why Does Naetorp Exist?](introduction/why.md)
   * [Who is Naetorp For?](introduction/who.md)
 * [Actions](actions/introduction.md)
-  * [Micropractices](actions/micropractices.md)
+  * [Recipes](actions/recipes.md)
   * [Stars](actions/stars.md)
   * [Caveats](actions/caveats.md)
   * [Perspectives](actions/perspectives.md)
