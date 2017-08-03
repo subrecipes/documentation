@@ -1,4 +1,4 @@
-### Why does Naetorp exist?
+### Why does Subrecipes exist?
 
 There are so many amazing resources in the programming community for learning and mastering various languages, libraries, and technologies. From Stack Overflow's simple question and answer format, to Eggheads' video tutorials, and Jsfiddles' demoing capabilities, each tool provides a unique solution to a specific area in the programming ecosystem. Best practices are one such area that is still served entirely through books, blogs, and anecdotal conversations, and while these resources are effective, there are serious limitations.
 

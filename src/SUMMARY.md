@@ -2,8 +2,8 @@
 
 * [Introduction](README.md)
   * [Getting Started](introduction/getting_started.md)
-  * [Why Does Naetorp Exist?](introduction/why.md)
-  * [Who is Naetorp For?](introduction/who.md)
+  * [Why Does Subrecipes Exist?](introduction/why.md)
+  * [Who is Subrecipes For?](introduction/who.md)
 * [Actions](actions/introduction.md)
   * [Recipes](actions/recipes.md)
   * [Stars](actions/stars.md)
